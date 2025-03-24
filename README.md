@@ -19,7 +19,7 @@ Here are some of my key projects:
 🔹 [roject 1](#) - Description  (**Laptop_EDA_with_python.ipynb**)  
 🔹 [Project 2](#) - Description (**Predicting bthe gender based on some features like the height , weight , ..**)  
 🔹 [Project 3](#) - Description (**Detecting outliers using İnterqurtille method**)  
-🔹 [Project 4](#) - Description (**Ecploratory data analysis of crime in USA**) 
+🔹 [Project 4](#) - Description (**Exploratory data analysis of crime in USA**) 
 
 Check out more projects in my repositories!  
 
