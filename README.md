@@ -30,8 +30,8 @@ Check out more projects in my repositories!
 - Databricks $ Pyspack - Big Data
 
 📫 Connect with Me  
-- LinkedIn: [https://www.linkedin.com/in/timothee-nkwar-728377222/](#)  
-- GitHub: [@YourGitHubUsername](https://github.com/TimotheeNkwar/DataScience/)  
+- LinkedIn: [https://www.linkedin.com/in/timothee-nkwar-728377222/] 
+- GitHub: [https://github.com/TimotheeNkwar/DataScience/] 
 - Email: [timotheenkwar16@gmail.com]
 
 ⭐️ If you like my work, feel free to **star** my repositories! 🚀  
