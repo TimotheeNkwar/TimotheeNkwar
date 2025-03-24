@@ -16,7 +16,7 @@ I am a Data Science enthusiast who loves exploring data, building machine learni
 
  📌 Projects  
 Here are some of my key projects:  
-🔹 [roject 1](#) - Description  (**Laptop_EDA_with_python.ipynb**)  
+🔹 [Project 1](#) - Description  (**Laptop_EDA_with_python.ipynb**)  
 🔹 [Project 2](#) - Description (**Predicting bthe gender based on some features like the height , weight , ..**)  
 🔹 [Project 3](#) - Description (**Detecting outliers using İnterqurtille method**)  
 🔹 [Project 4](#) - Description (**Exploratory data analysis of crime in USA**) 
