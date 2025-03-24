@@ -7,7 +7,7 @@ I am a Data Science enthusiast who loves exploring data, building machine learni
 
 🔧 Skills  
 - Statistics & Probabilities
-- Programming: Python (Pandas, NumPy, Scipy ,Vaex, ...)  
+- Programming: Python (Pandas, NumPy, Scipy , ...)  
 - Machine Learning: Scikit-learn, TensorFlow 
 - Data Visualization: Tableau, Matplotlib, Seaborn, Plotly 
 - Databases: SQL (PostgreSQL, MySQL)   
