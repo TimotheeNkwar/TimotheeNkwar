@@ -3,7 +3,7 @@
  👋 Hey, I'm Timothee!  
 
  🚀 About Me  
-I am a Data Science enthusiast who loves exploring data, building machine learning models, and creating insightful visualizations. My passion lies in transforming raw data into actionable insights and deploying scalable solutions.  
+I am a Data Science (**Student**) enthusiast who loves exploring data, building machine learning models, and creating insightful visualizations. My passion lies in transforming raw data into actionable insights and deploying scalable solutions.  
 
 🔧 Skills  
 - Statistics & Probabilities
