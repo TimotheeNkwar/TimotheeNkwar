@@ -6,6 +6,7 @@
 I am a Data Science (**Student**) enthusiast who loves exploring data, building machine learning models, and creating insightful visualizations. My passion lies in transforming raw data into actionable insights and deploying scalable solutions.  
 
 🔧 Skills  
+
 - Statistics & Probabilities
 - Programming: Python (Pandas, NumPy, Scipy , ...)
 - Programming: R (ggplot2, dplyr)  
@@ -21,13 +22,14 @@ Here are some of my key personal projects:
 🔹 [Project 1](#) - Description  (**Laptop_EDA_with_python.ipynb**)  
 🔹 [Project 2](#) - Description (**Predicting the gender based on some features like the height ,weight, ...**)  
 🔹 [Project 3](#) - Description (**Detecting outliers using interquartille method**)  
-🔹 [Project 4](#) - Description (**Exploratory data analysis of crime in USA**) 
-🔹 [Project 5](#) - Description (**Dashboard of Netflix Movies**) 
+🔹 [Project 4](#) - Description (**Exploratory data analysis of crime in USA**)
+ 
 🔹 [Project 5](#) - Description (**Dashboard of Netflix Movies**) 
 🔹 **And more ...**
 
 Check out more projects in my repositories!  
-🌱 Currently Learning  
+🌱 Currently Learning
+
 - TensorFlow – Deep learning & AI applications  
 - Streamlit – Building interactive web apps  
 - Docker & Kubernetes – Deploying scalable ML models
