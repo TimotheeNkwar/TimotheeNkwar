@@ -22,7 +22,7 @@ Here are some of my key personal projects:
 🔹 [Project 2](#) - Description (**Predicting the gender based on some features like the height ,weight, ...**)  
 🔹 [Project 3](#) - Description (**Detecting outliers using interquartille method**)  
 🔹 [Project 4](#) - Description (**Exploratory data analysis of crime in USA**) 
-
+🔹 [Project 5](#) - Description (**Dashboard of Netflix Movies**) 
 🔹 [Project 5](#) - Description (**Dashboard of Netflix Movies**) 
 🔹 **And more ...**
 
