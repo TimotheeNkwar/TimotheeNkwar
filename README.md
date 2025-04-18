@@ -19,15 +19,10 @@ I am a Data Science (**Student**) enthusiast who loves exploring data, building 
 Here are some of my key personal projects: 
 
 🔹 [Project 1](#) - Description  (**Laptop_EDA_with_python.ipynb**)  
-
 🔹 [Project 2](#) - Description (**Predicting the gender based on some features like the height ,weight, ...**)  
-
 🔹 [Project 3](#) - Description (**Detecting outliers using interquartille method**)  
-
 🔹 [Project 4](#) - Description (**Exploratory data analysis of crime in USA**) 
-
 🔹 [Project 5](#) - Description (**Dashboard of Netflix Movies**) 
-
 🔹 **And more ...**
 
 
