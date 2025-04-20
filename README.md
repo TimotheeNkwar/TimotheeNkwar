@@ -34,7 +34,9 @@ Check out more projects in my repositories!
 - Streamlit – Building interactive web apps  
 - Docker & Kubernetes – Deploying scalable ML models
 - Databricks & Pyspark - Big Data
+- Google Cloud  - Cloud Platform
 
+  
 📫 Connect with Me  
 - LinkedIn: https://www.linkedin.com/in/timothee-nkwar-728377222/
 - GitHub: https://github.com/TimotheeNkwar/DataScience/
