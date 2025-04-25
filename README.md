@@ -12,7 +12,7 @@ I am a Data Science (**Student**) enthusiast who loves exploring data, building 
 - Programming: R (ggplot2, dplyr)  
 - Machine Learning: Scikit-learn
 - Data Visualization: Tableau, Matplotlib, Seaborn, Plotly 
-- Databases: SQL (PostgreSQL, MySQL)   
+- Databases: SQL (PostgreSQL, MySQL , SQLite 3)   
 - Web Apps: Streamlit
   
  📌 Projects  
