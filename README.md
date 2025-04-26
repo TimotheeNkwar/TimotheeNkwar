@@ -8,7 +8,7 @@ I am a Data Science (**Student**) enthusiast who loves exploring data, building 
 🔧 Skills  
 
 - Statistics & Probabilities
-- Programming: Python (Pandas, NumPy, Scipy , dask , missingno  ...)
+- Programming: Python (Pandas, NumPy, Scipy , dask...)
 - Programming: R (ggplot2, dplyr)  
 - Machine Learning: Scikit-learn
 - Data Visualization: Tableau, Matplotlib, Seaborn, Plotly 
