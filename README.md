@@ -1,4 +1,4 @@
-![TIMOTHEE NKWAR ](https://github.com/TimotheeNkwar/TIMOTHEE-NKWAR/blob/main/Data%20Scientist.png)
+![TIMOTHEE NKWAR ]([https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Data%20Scientist.png])
 
  👋 Hey, I'm Timothee!  
 
@@ -8,11 +8,11 @@ I am a Data Science (**Student**) enthusiast who loves exploring data, building 
 🔧 Skills  
 
 - Statistics & Probabilities
-- Programming: Python (Pandas, NumPy, Scipy , ...)
+- Programming: Python (Pandas, NumPy, Scipy , dask...)
 - Programming: R (ggplot2, dplyr)  
 - Machine Learning: Scikit-learn
 - Data Visualization: Tableau, Matplotlib, Seaborn, Plotly 
-- Databases: SQL (PostgreSQL, MySQL)   
+- Databases: SQL (PostgreSQL, MySQL , SQLite 3)   
 - Web Apps: Streamlit
   
  📌 Projects  
