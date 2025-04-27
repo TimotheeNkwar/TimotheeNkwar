@@ -1,4 +1,4 @@
-![TIMOTHEE NKWAR ]([https://github.com/TimotheeNkwar/TIMOTHEE-NKWAR/blob/main/Data%20Scientist.png](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Data%20Scientist.png))
+![TIMOTHEE NKWAR ]([https://github.com/TimotheeNkwar/TIMOTHEE-NKWAR/blob/main/Data%20Scientist.png])
 
  👋 Hey, I'm Timothee!  
 
