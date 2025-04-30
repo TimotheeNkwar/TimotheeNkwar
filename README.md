@@ -2,7 +2,7 @@
 
  👋 Hey, I'm Timothee!  
 
- 🚀 About Me  
+ 🚀 ****About Me**** 
 I am a Data Science (**Student**) enthusiast who loves exploring data, building machine learning models, and creating insightful visualizations. My passion lies in transforming raw data into actionable insights and deploying scalable solutions.  
 
 🎓 ****New Certification****
@@ -20,7 +20,7 @@ I recently earned a new certification:
 - Databases: SQL (PostgreSQL, MySQL , SQLite 3)   
 - Web Apps: Streamlit
   
- 📌 Projects  
+ 📌 ****Projects****  
  
 Here are some of my key personal projects: 
 
@@ -32,13 +32,15 @@ Here are some of my key personal projects:
 🔹 **And more ...**
 
 Check out more projects in my repositories!  
-🌱 Currently Learning
+
+🌱 ****Currently Learning****
 
 - Databricks & Pyspark - Big Data
 - Google Cloud  - Cloud Platform
 
   
-📫 Connect with Me  
+📫 ****Connect with Me**** 
+
 - LinkedIn: https://www.linkedin.com/in/timothee-nkwar-728377222/
 - GitHub: https://github.com/TimotheeNkwar/DataScience/
 - Email: timotheenkwar16@gmail.com
