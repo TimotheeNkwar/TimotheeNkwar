@@ -9,7 +9,7 @@ I am a Data Science (**Student**) enthusiast who loves exploring data, building 
 🎓 ****New Certification****
 
 I recently earned a new certification:
-## IBM DATA SCIENCE CERTIFICATE ## — ****this helped me build a project managing a Dentist Clinic database using SQL and Python!****
+***IBM DATA SCIENCE CERTIFICATE*** — this helped me build a project managing a Dentist Clinic database using SQL and Python and !
 
 🔧 ****Skills****  
 
