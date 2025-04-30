@@ -3,6 +3,7 @@
  👋 Hey, I'm Timothee!  
 
  🚀 ****About Me**** 
+ 
 I am a Data Science (**Student**) enthusiast who loves exploring data, building machine learning models, and creating insightful visualizations. My passion lies in transforming raw data into actionable insights and deploying scalable solutions.  
 
 🎓 ****New Certification****
@@ -24,6 +25,7 @@ I recently earned a new certification:
  
 Here are some of my key personal projects: 
 
+
 🔹 [Project 1](#) - Description  (**Laptop_EDA_with_python.ipynb**)  
 🔹 [Project 2](#) - Description (**Predicting the gender based on some features like the height ,weight, ...**)  
 🔹 [Project 3](#) - Description (**Detecting outliers using interquartille method**)  
@@ -38,12 +40,13 @@ Check out more projects in my repositories!
 - Databricks & Pyspark - Big Data
 - Google Cloud  - Cloud Platform
 
-  
+
 📫 ****Connect with Me**** 
 
 - LinkedIn: https://www.linkedin.com/in/timothee-nkwar-728377222/
 - GitHub: https://github.com/TimotheeNkwar/DataScience/
 - Email: timotheenkwar16@gmail.com
+
 
 ⭐️ If you like my work, feel free to **star** my repositories! 🚀  
 
