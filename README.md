@@ -5,6 +5,10 @@
  🚀 About Me  
 I am a Data Science (**Student**) enthusiast who loves exploring data, building machine learning models, and creating insightful visualizations. My passion lies in transforming raw data into actionable insights and deploying scalable solutions.  
 
+🎓 New Certification
+I recently earned a new certification:
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐒𝐐𝐋 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 — this helped me build a project managing a Dentist Clinic database using SQL and Python!
+
 🔧 Skills  
 
 - Statistics & Probabilities
