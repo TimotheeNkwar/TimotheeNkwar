@@ -26,7 +26,7 @@ I recently earned a new certification:
 Here are some of my key personal projects: 
 
 
-🔹 [Project 1](#) - Description  (**Laptop_EDA_with_python.ipynb**)  
+🔹 [Project 1](#) - Description  (**Laptop_EDA_with_python**)  
 🔹 [Project 2](#) - Description (**Predicting the gender based on some features like the height ,weight, ...**)  
 🔹 [Project 3](#) - Description (**Detecting outliers using interquartille method**)  
 🔹 [Project 4](#) - Description (**Exploratory data analysis of crime in USA**)  
