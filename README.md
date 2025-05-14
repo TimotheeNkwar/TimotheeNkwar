@@ -46,7 +46,7 @@ Check out more projects in my repositories!
 - LinkedIn: https://www.linkedin.com/in/timothee-nkwar-728377222/
 - GitHub: https://github.com/TimotheeNkwar/DataScience/
 - Email: timotheenkwar16@gmail.com
-
+- Website: https://timotheenkwardatascience.netlify.app/
 
 ⭐️ If you like my work, feel free to **star** my repositories! 🚀  
 
