@@ -14,8 +14,7 @@ I recently earned a new certification:
 🔧 ****Skills****  
 
 - Statistics & Probabilities
-- Programming: Python (Pandas, NumPy, Scipy , dask...)
-- Programming: R (ggplot2, dplyr)  
+- Programming: Python (Pandas, NumPy, Scipy , dask...) 
 - Machine Learning: Scikit-learn
 - Data Visualization: Tableau, Matplotlib, Seaborn, Plotly 
 - Databases: SQL (PostgreSQL, MySQL , SQLite 3)   
