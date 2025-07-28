@@ -42,7 +42,7 @@ Check out more projects in my repositories!
 
 📫 ****Connect with Me**** 
 
-- LinkedIn: https://www.linkedin.com/in/timothee-nkwar-728377222/
+- LinkedIn: https://nkwar.netlify.app/
 - Email: timotheenkwar16@gmail.com
 - Website: [timotheenkwardatascience](https://tinyurl.com/4pkz645z)
 
