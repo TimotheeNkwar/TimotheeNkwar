@@ -1,13 +1,12 @@
 name: Generate Snake Animation
 
-# Ajoute ces permissions au niveau du job ou du workflow
 permissions:
-  contents: write  # Indispensable pour push sur une branche
+  contents: write   # Autorise explicitement le push
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Toutes les 12 heures
-  workflow_dispatch:        # Pour lancer manuellement
+    - cron: "0 */12 * * *"   # Toutes les 12 heures
+  workflow_dispatch:         # Pour lancer manuellement
   push:
     branches:
       - main
