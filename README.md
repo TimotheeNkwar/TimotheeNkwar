@@ -7,10 +7,9 @@ Innovative and proactive **Data Scientist** with a builder mindset. Specialized 
 
 📍 Nicosia, Cyprus | 📧 timotheenkwar@gmail.com | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/timothee-nkwar) | 💻 [GitHub](https://github.com/TimotheeNkwar)
 
-<!-- Optional: Add dynamic stats for extra appeal (recruiters love activity proof) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimotheeNkwar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🔧 Technical Skills
