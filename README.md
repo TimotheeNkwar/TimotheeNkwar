@@ -44,7 +44,7 @@ Check out more projects in my repositories!
 
 - LinkedIn: https://www.linkedin.com/in/timothee-nkwar-728377222/
 - Email: timotheenkwar16@gmail.com
-- Website: https://nkwar.netlify.app/
+- Website: timotheenkwar.me
 
 ⭐️ If you like my work, feel free to **star** my repositories! 🚀  
 
