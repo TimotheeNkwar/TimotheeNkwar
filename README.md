@@ -58,8 +58,8 @@ Pin these on your profile!
 - Project Management Professional Certificate (Google) – Coming Soon
 
 ## 🌱 Currently Learning
-- Advanced **Databricks** & PySpark for Big Data
-- Deeper **Google Cloud Platform (GCP)** – Vertex AI, BigQuery ML
+- RAG and Agentic AI (IBM)
+- Project Management (Google)
 
 ## 🐍 My Contributions
 
