@@ -10,15 +10,17 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-
 ## 🏆 GitHub Achievements
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TimotheeNkwar&theme=radical&no-frame=true&row=1&column=7)
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical)
 
 ## 🗣️ Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical)
 
 ---
@@ -56,13 +58,6 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 - Managed the SCEA coupon distribution system in DR Congo (project manager & system designer)
 - Cross-functional collaboration with engineers, DevOps, product owners, and stakeholders
 - Strong communication, leadership potential, analytical mindset, problem-solving under pressure
-
-## 💼 Work Experience
-
-- **Software And IT Assistant** – Software Development Office, Cyprus International University (Oct 2025 – Jan 2026)  
-  Built RAG-based chatbot and Attendance QR system using LLMs to enhance automation and user engagement.
-- **AI and Software Intern** – Software Development Office, Cyprus International University (Jun 2025 – Aug 2025)  
-  Developed intelligent chatbot for large datasets; improved accuracy through data processing and analysis.
 
 ## 📚 Education
 
