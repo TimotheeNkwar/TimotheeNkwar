@@ -11,23 +11,15 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 ![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 
----
+## 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=TimotheeNkwar&theme=radical&no-frame=true&row=1&column=7)
 
-<div align="center">
-  
-  <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=TimotheeNkwar&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical)
 
-  <br><br>
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical" alt="GitHub Streak" />
-
-  <br><br>
-  <h2>🗣️ Top Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
+## 🗣️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical)
 
 ---
 
