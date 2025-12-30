@@ -1,26 +1,38 @@
 ![Timothee Kabongo Nkwar - Data Scientist](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/main/Data%20Scientist.png)
 
 # 👋 Hi, I'm Timothee Kabongo Nkwar  
+
 **Data Scientist | AI Engineer | ML Engineer**
 
 Innovative and proactive Data Scientist with a builder mindset, delivering end-to-end ML products from ideation to production. Strong track record in **RAG/LLM** systems, real-time fraud detection, scalable pipelines, and cross-functional leadership.
 
-📍 Nicosia, Cyprus | 📧 timotheenkwar@gmail.com | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/timothee-nkwar)
+📍 Nicosia, Cyprus | 📧 <timotheenkwar@gmail.com> | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/timothee-nkwar)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-<p align="center">
+
+---
+
+<div align="center">
+  
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=TimotheeNkwar&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+
+  <br><br>
+  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TimotheeNkwar&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+  <br><br>
+  <h2>🗣️ Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
+
+---
 
 ## 🔧 Technical Skills & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
@@ -45,6 +57,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 </details>
 
 ## 🛠️ Key Competencies
+
 - Building **RAG-based chatbots** and intelligent information retrieval systems
 - Real-time **fraud detection** & anomaly detection using ML models and streaming pipelines
 - End-to-end Data Science projects: initiation → data engineering → modeling → deployment → monitoring
@@ -53,16 +66,19 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 - Strong communication, leadership potential, analytical mindset, problem-solving under pressure
 
 ## 💼 Work Experience
+
 - **Software And IT Assistant** – Software Development Office, Cyprus International University (Oct 2025 – Jan 2026)  
   Built RAG-based chatbot and Attendance QR system using LLMs to enhance automation and user engagement.
 - **AI and Software Intern** – Software Development Office, Cyprus International University (Jun 2025 – Aug 2025)  
   Developed intelligent chatbot for large datasets; improved accuracy through data processing and analysis.
 
 ## 📚 Education
+
 - **Applied Data Science Labs** – WorldQuant University (Online, Jun–Aug 2025)
 - **Bachelor of Data Science** – Cyprus International University (Nicosia, Cyprus, Jan 2023 – Jan 2027)
 
 ## 🚀 Featured Projects
+
 Pin these repos on your profile!
 
 - **Customer Lifetime Value Optimization** (Oct 2025) – Achieved accurate CLV predictions and improved retention/ROI using ML models and customer segmentation. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [Repo Link]
@@ -74,6 +90,7 @@ Pin these repos on your profile!
 *More projects in my repositories – explore RAG chatbots, fraud detection, and MLOps!*
 
 ## 🏆 Certifications
+
 - Data Science Associate (DataCamp) – Jun 2025
 - Professional Data Science (IBM) – Apr 2025
 - Advanced Data Analytics (Google) – May 2025
@@ -81,10 +98,12 @@ Pin these repos on your profile!
 - Project Management Professional Certificate (Google) – Coming Soon
 
 ## 🌱 Currently Learning
+
 - Advanced **Databricks** & PySpark for Big Data
 - Deeper **Google Cloud Platform (GCP)** – Vertex AI, BigQuery ML
 
 ## 🐍 My Contributions
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-dark.svg" />
@@ -95,9 +114,10 @@ Pin these repos on your profile!
 
 <hr>
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
+
 - LinkedIn: [linkedin.com/in/timothee-nkwar](https://www.linkedin.com/in/timothee-nkwar)
-- Email: timotheenkwar@gmail.com
+- Email: <timotheenkwar@gmail.com>
 - Website: [timotheenkwar.me](https://timotheenkwar.me)
 
 ⭐ **Star my repos if you find them useful!** Thanks for visiting 🚀
