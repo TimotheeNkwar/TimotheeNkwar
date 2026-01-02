@@ -23,11 +23,12 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 </div>
 
 **📈 Stats Overview:**
+
 - **3,445** Total Contributions (Since May 10, 2023)
 - **4** Current Streak (Dec 29, 2025 - Jan 1)
 - **49** Longest Streak (Oct 9 - Nov 26, 2025)
 
-**💻 Top Languages:** Python • SQL • JavaScript • Bash
+**💻 Top Languages:** Python • SQL • JavaScript • HTML • CSS • React • LaTeX • Bash
 
 ---
 
