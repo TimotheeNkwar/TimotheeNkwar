@@ -14,21 +14,15 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TimotheeNkwar&theme=radical&no-frame=true&row=1&column=7)
 
-## 📊 GitHub Stats & 🗣️ Top Languages
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical)
+
+## 🗣️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical)
 
 ---
 
