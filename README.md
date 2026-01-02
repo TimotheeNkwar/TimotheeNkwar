@@ -16,13 +16,13 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true)
+| | |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical) |
+
+## 📈 Current Streak
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TimotheeNkwar&theme=radical)
-
-## 🗣️ Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=radical)
 
 ---
 
