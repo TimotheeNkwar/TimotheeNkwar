@@ -12,7 +12,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 🏆 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TimotheeNkwar&theme=radical&no-frame=true&row=1&column=7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TimotheeNkwar&theme=radical)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
