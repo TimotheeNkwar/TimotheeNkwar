@@ -12,13 +12,17 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar&theme=merko)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TimotheeNkwar&theme=radical)](https://github.com/TimotheeNkwar)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko&include_all_commits=true&count_private=true)](https://github.com/TimotheeNkwar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=merko)](https://github.com/TimotheeNkwar)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
