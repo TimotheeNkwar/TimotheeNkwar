@@ -12,7 +12,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TimotheeNkwar&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
@@ -21,16 +21,6 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 [![GitHub Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TimotheeNkwar&theme=radical)](https://github.com/TimotheeNkwar)
 
 </div>
-
-**📈 Stats Overview:**
-
-- **3,558** Total Contributions (Since May 10, 2023)
-- **0** Current Streak (Jan 11)
-- **49** Longest Streak (Oct 9 - Nov 26, 2025)
-
-**💻 Top Languages:** Python • SQL • JavaScript • HTML • CSS • React • LaTeX • Bash
-
----
 
 ## 🔧 Technical Skills & Tools
 
