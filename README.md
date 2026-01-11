@@ -18,10 +18,6 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko&include_all_commits=true&count_private=true)](https://github.com/TimotheeNkwar)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeNkwar&layout=compact&theme=merko)](https://github.com/TimotheeNkwar)
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
