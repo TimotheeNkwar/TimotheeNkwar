@@ -84,7 +84,7 @@ Pin these repos on your profile!
 
 - Project Management Professional Certificate (Google) – Coming Soon
 - AI & ML Engineering (Microsoft )
-- Mathematics for Machine Learning and Data Science (DeeepLearning:AI)
+- Mathematics for Machine Learning and Data Science (DeeepLearning.AI)
 
 ## 🐍 My Contributions
 
