@@ -83,6 +83,7 @@ Pin these repos on your profile!
 ## 🌱 Currently Learning
 
 - Project Management Professional Certificate (Google) – Coming Soon
+- AI & ML Engineering (Microsoft )
 
 ## 🐍 My Contributions
 
