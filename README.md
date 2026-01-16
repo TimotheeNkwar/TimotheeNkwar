@@ -79,12 +79,10 @@ Pin these repos on your profile!
 - Professional Data Science (IBM) – Apr 2025
 - Advanced Data Analytics (Google) – May 2025
 - RAG and Agentic AI (IBM) – Coming Soon
-- Project Management Professional Certificate (Google) – Coming Soon
 
 ## 🌱 Currently Learning
 
-- Advanced **Databricks** & PySpark for Big Data
-- Deeper **Google Cloud Platform (GCP)** – Vertex AI, BigQuery ML
+- Project Management Professional Certificate (Google) – Coming Soon
 
 ## 🐍 My Contributions
 
