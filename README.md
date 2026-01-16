@@ -69,7 +69,7 @@ Pin these repos on your profile!
 - **Credit Card Fraud Detection** (Jul 2025) – High-accuracy real-time fraud detection system with reduced false positives via optimised ML models. ![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat) [Repo Link]
 - **SECA-System: Coupon & Distribution Management** (Jun 2025 – Jan 2026) – End-to-end transparent distribution system in DR Congo (Project Manager). [Repo Link]
 - **Dynamic Price Optimization** (Jul 2025) – Revenue uplift through dynamic pricing with ML predictive models and automated pipelines. [Repo Link]
-- **SpaceX Launch Analysis** (Jun 2025) – Mission-success insights via API extraction, SQL, EDA, and interactive dashboards. ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) [Repo Link]
+- **SpaceX Launch Analysis** (Jun 2025) – Mission-success insights via API extraction, SQL, EDA, and interactive dashboards. ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 *More projects in my repositories – explore RAG chatbots, fraud detection, and MLOps!*
 
