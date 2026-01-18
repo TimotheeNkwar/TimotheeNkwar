@@ -79,11 +79,20 @@ Pin these repos on your profile!
 
 ## 🐍 My Contributions
 
-```
+### Contribution Activity
+
 ![github-snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
 
-- LinkedIn: [linkedin.com/in/timothee-nkwar](https://www.linkedin.com/in/timothee-nkwar)
-- Email: <timotheenkwar@gmail.com>
-- Website: [timotheenkwar.me](https://timotheenkwar.me)
+### 📱 Connect With Me
 
-⭐ **Star my repos if you find them useful!** Thanks for visiting 🚀
+| Platform | Link |
+| ---------- | ------ |
+| 💼 **LinkedIn** | [linkedin.com/in/timothee-nkwar](https://www.linkedin.com/in/timothee-nkwar) |
+| 🌐 **Website** | [timotheenkwar.me](https://timotheenkwar.me) |
+| 📧 **Email** | [timotheenkwar@gmail.com](mailto:timotheenkwar@gmail.com) |
+
+---
+
+### ⭐ Support My Work
+
+If you find my projects valuable, consider **starring** my repositories! Your support motivates me to create more innovative solutions. Thanks for visiting! 🚀
