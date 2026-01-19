@@ -85,7 +85,37 @@ Pin these repos on your profile!
 
 ### Contribution Activity
 
-![github-snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h3>Snake Animation - Merko Theme</h3>
+  <img src="https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+### 📊 Other Animation Themes
+
+#### 🌙 Dark Mode
+![snake-dark](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-dark.svg)
+
+#### 🎨 Gradient (Verts)
+![snake-gradient](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-gradient.svg)
+
+#### 🌊 Ocean
+![snake-ocean](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-ocean.svg)
+
+#### 🔴 Radical
+![snake-radical](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-radical.svg)
+
+#### 🦇 Dracula
+![snake-dracula](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-dracula.svg)
+
+#### 🌸 Tokyo Night
+![snake-tokyonight](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-tokyonight.svg)
+
+#### ❄️ Nord
+![snake-nord](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-nord.svg)
+
+#### 🎬 Animated Gradient
+
+![snake-animated](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-animated.svg)
 
 ### 📱 Connect With Me
 
