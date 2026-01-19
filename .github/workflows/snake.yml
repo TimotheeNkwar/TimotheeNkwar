@@ -24,12 +24,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-gradient.svg?color_snake=%2300d9ff&color_dots=%23ff006e,%23fb5607,%23ffbe0b,%2308f7fe
-            dist/github-contribution-grid-snake-ocean.svg?color_snake=%231e90ff&color_dots=%2300bfff,%2300ced1,%2320b2aa,%23008b8b
-            dist/github-contribution-grid-snake-purple.svg?color_snake=%239d4edd&color_dots=%23e0aaff,%23d6b3ff,%23c77dff,%23a78bfa
-            dist/github-contribution-grid-snake.gif?color_snake=%2300d9ff&color_dots=%23ff006e,%23fb5607,%23ffbe0b,%2308f7fe
+            dist/github-contribution-grid-snake.svg?palette=merko
+            dist/github-contribution-grid-snake-dark.svg?palette=merko-dark
+            dist/github-contribution-grid-snake-gradient.svg?color_snake=%23228B22&color_dots=%2310b981,%2334d399,%236ee7b7,%23a7f3d0
+            dist/github-contribution-grid-snake-ocean.svg?color_snake=%232d7d5e&color_dots=%2310b981,%2334d399,%236ee7b7,%23a7f3d0
+            dist/github-contribution-grid-snake.gif?palette=merko
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
