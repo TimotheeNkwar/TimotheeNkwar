@@ -12,11 +12,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar&theme=merko&hide_border=true" alt="GitHub Streak" width="100%" />
-  </a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
