@@ -28,7 +28,23 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=merko-dark
             dist/github-contribution-grid-snake-gradient.svg?color_snake=%23228B22&color_dots=%2310b981,%2334d399,%236ee7b7,%23a7f3d0
             dist/github-contribution-grid-snake-ocean.svg?color_snake=%232d7d5e&color_dots=%2310b981,%2334d399,%236ee7b7,%23a7f3d0
+            dist/github-contribution-grid-snake-radical.svg?palette=radical
+            dist/github-contribution-grid-snake-dracula.svg?palette=dracula
+            dist/github-contribution-grid-snake-tokyonight.svg?palette=tokyonight
+            dist/github-contribution-grid-snake-nord.svg?palette=nord
             dist/github-contribution-grid-snake.gif?palette=merko
+            dist/github-contribution-grid-snake-animated-gradient.gif?color_snake=%23228B22&color_dots=%2310b981,%2334d399,%236ee7b7
+
+      - name: Optimize SVG files
+        run: |
+          if command -v svgo &> /dev/null; then
+            svgo dist/*.svg --multipass || true
+          fi
+
+      - name: Verify outputs
+        run: |
+          echo "Generated files:"
+          ls -lah dist/ || echo "No dist directory found"
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
