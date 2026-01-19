@@ -16,6 +16,15 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=merko&langs_count=8" />
+  </a>
+</div>
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔧 Technical Skills & Tools
