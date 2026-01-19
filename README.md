@@ -85,10 +85,9 @@ Pin these repos on your profile!
 
 ### Contribution Activity
 
-<div align="center">
-  <h3>Snake Animation - Merko Theme</h3>
-  <img src="https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
+### Snake Animation - Merko Theme
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
 
 ### 📊 Other Animation Themes
 
