@@ -26,7 +26,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-gradient.svg?color_snake=%2300d9ff&color_dots=%23ff006e,%23fb5607,%23ffbe0b,%2308f7fe
+            dist/github-contribution-grid-snake-ocean.svg?color_snake=%231e90ff&color_dots=%2300bfff,%2300ced1,%2320b2aa,%23008b8b
+            dist/github-contribution-grid-snake-purple.svg?color_snake=%239d4edd&color_dots=%23e0aaff,%23d6b3ff,%23c77dff,%23a78bfa
+            dist/github-contribution-grid-snake.gif?color_snake=%2300d9ff&color_dots=%23ff006e,%23fb5607,%23ffbe0b,%2308f7fe
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
