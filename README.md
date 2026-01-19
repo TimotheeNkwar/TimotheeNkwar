@@ -16,11 +16,26 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center" width="48%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=merko&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  </a>
+</div>
 
 ## 🔧 Technical Skills & Tools
 
