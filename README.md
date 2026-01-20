@@ -1,4 +1,4 @@
-# <img src="https://img.shields.io/badge/Wave-%F0%9F%91%8B-blue" /> Hi, I'm Timothee Kabongo Nkwar
+# 👋 Hi, I'm Timothee Kabongo Nkwar
 
 ![Timothee Kabongo Nkwar - Data Scientist](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/main/Data%20Scientist.png)
 
@@ -6,15 +6,15 @@
 
 Innovative and proactive Data Scientist with a builder mindset, delivering end-to-end ML products from ideation to production. Strong track record in **RAG/LLM** systems, real-time fraud detection, scalable pipelines, and cross-functional leadership.
 
-<img width="16" src="https://simpleicons.org/icons/location.svg" /> Nicosia, Cyprus | <img width="16" src="https://simpleicons.org/icons/gmail.svg" /> <timotheenkwar@gmail.com> | <img width="16" src="https://simpleicons.org/icons/google.svg" /> [timotheenkwar.me](https://timotheenkwar.me) | <img width="16" src="https://simpleicons.org/icons/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/timothee-nkwar)
+📍 Nicosia, Cyprus | 📧 <timotheenkwar@gmail.com> | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 💼 [LinkedIn](https://www.linkedin.com/in/timothee-nkwar)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-## <img width="20" src="https://simpleicons.org/icons/github.svg" /> GitHub Achievements
+## 🏆 GitHub Achievements
 
 [![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-## <img width="20" src="https://simpleicons.org/icons/graphql.svg" /> GitHub Stats
+## 📊 GitHub Stats
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
@@ -22,7 +22,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## <img width="20" src="https://simpleicons.org/icons/github.svg" /> Technical Skills & Tools
+## 🔧 Technical Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -33,7 +33,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### <img width="20" src="https://simpleicons.org/icons/markdown.svg" /> Full Skills List
+### 📋 Full Skills List
 
 - **Languages**: Python • SQL • Bash • HTML/CSS
 - **Machine Learning & Data Science**: Scikit-learn • XGBoost • LightGBM • Pandas • NumPy • Matplotlib • Seaborn
@@ -42,7 +42,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 - **Cloud & Big Data**: Google Cloud Platform (GCP: BigQuery, Cloud Run, Vertex AI) • Databricks • Snowflake • MongoDB • Supabase • PostgreSQL
 - **Tools**: Git • Linux • Jupyter • Postman • VS Code • PyCharm • Weights & Biases (basics)
 
-## <img width="20" src="https://simpleicons.org/icons/tools.svg" /> Key Competencies
+## 🛠️ Key Competencies
 
 - Building **RAG-based chatbots** and intelligent information retrieval systems
 - Real-time **fraud detection** & anomaly detection using ML models and streaming pipelines
@@ -51,12 +51,12 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 - Cross-functional collaboration with engineers, DevOps, product owners, and stakeholders
 - Strong communication, leadership potential, analytical mindset, problem-solving under pressure
 
-## <img width="20" src="https://simpleicons.org/icons/bookstack.svg" /> Education
+## 📚 Education
 
 - **Applied Data Science Labs** – WorldQuant University (Online, Jun–Aug 2025)
 - **Bachelor of Data Science** – Cyprus International University (Nicosia, Cyprus, Jan 2023 – Jan 2027)
 
-## <img width="20" src="https://simpleicons.org/icons/spacex.svg" /> Featured Projects
+## 🚀 Featured Projects
 
 Pin these repos on your profile!
 
@@ -68,20 +68,20 @@ Pin these repos on your profile!
 
 *More projects in my repositories – explore RAG chatbots, fraud detection, and MLOps!*
 
-## <img width="20" src="https://simpleicons.org/icons/github.svg" /> Certifications
+## 🏆 Certifications
 
 - Data Science Associate (DataCamp) – Jun 2025
 - Professional Data Science (IBM) – Apr 2025
 - Advanced Data Analytics (Google) – May 2025
 - RAG and Agentic AI (IBM) – Coming Soon
 
-## <img width="20" src="https://simpleicons.org/icons/npm.svg" /> Currently Learning
+## 🌱 Currently Learning
 
 - Project Management Professional Certificate (Google) – Coming Soon
 - AI & ML Engineering (Microsoft )
 - Mathematics for Machine Learning and Data Science (DeeepLearning.AI)
 
-## <img width="20" src="https://simpleicons.org/icons/python.svg" /> My Contributions
+## 🐍 My Contributions
 
 ### Contribution Activity
 
@@ -91,12 +91,12 @@ Pin these repos on your profile!
 
 | Platform | Link |
 | ---------- | ------ |
-| <img width="16" src="https://simpleicons.org/icons/linkedin.svg" /> **LinkedIn** | [linkedin.com/in/timothee-nkwar](https://www.linkedin.com/in/timothee-nkwar) |
-| <img width="16" src="https://simpleicons.org/icons/google.svg" /> **Website** | [timotheenkwar.me](https://timotheenkwar.me) |
-| <img width="16" src="https://simpleicons.org/icons/gmail.svg" /> **Email** | [timotheenkwar@gmail.com](mailto:timotheenkwar@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/timothee-nkwar](https://www.linkedin.com/in/timothee-nkwar) |
+| 🌐 **Website** | [timotheenkwar.me](https://timotheenkwar.me) |
+| 📧 **Email** | [timotheenkwar@gmail.com](mailto:timotheenkwar@gmail.com) |
 
 ---
 
-### <img width="20" src="https://simpleicons.org/icons/github.svg" /> Support My Work
+### ⭐ Support My Work
 
 If you find my projects valuable, consider **starring** my repositories! Your support motivates me to create more innovative solutions. Thanks for visiting! 🚀
