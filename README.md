@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timothee Kabongo Nkwar
 
-![Timothee Kabongo Nkwar - Data Scientist](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/main/data-scientist.svg)
+![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Data%20Scientist.png)
 
 ## Data Scientist | AI Engineer | ML Engineer
 
