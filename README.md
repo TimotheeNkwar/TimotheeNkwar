@@ -127,7 +127,6 @@ Pin these repos on your profile!
 | ![globe](https://img.shields.io/badge/-globe-green?style=flat) **Website** | [timotheenkwar.me](https://timotheenkwar.me) | Portfolio & blog posts |
 | ![email](https://img.shields.io/badge/-email-blue?style=flat) **Email** | [timotheenkwar@gmail.com](mailto:timotheenkwar@gmail.com) | Open to consulting & speaking engagements |
 | ![github](https://img.shields.io/badge/-github-black?style=flat) **GitHub** | [github.com/TimotheeNkwar](https://github.com/TimotheeNkwar) | Explore my code & contributions |
-| ![medium](https://img.shields.io/badge/-medium-000000?style=flat&logo=medium&logoColor=white) **Medium** | Coming Soon | Data Science & AI articles |
 
 ---
 
