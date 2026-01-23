@@ -77,7 +77,7 @@ Pin these repos on your profile!
 
 ## 🌱 Currently Learning
 
-- Project Management Professional Certificate (Google) – Coming Soon
+- Project Management Professional Certificate (Google)
 - AI & ML Engineering (Microsoft )
 - Mathematics for Machine Learning and Data Science (DeeepLearning.AI)
 
