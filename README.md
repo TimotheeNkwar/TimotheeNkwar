@@ -1,6 +1,6 @@
 # ![wave](https://img.shields.io/badge/-wave-yellow?style=flat) Hi, I'm Timothee K. Nkwar
 
-![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Data%20Scientist.png)
+![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Data-Scientist.png)
 
 ## Data Scientist | AI Engineer | ML Engineer
 
