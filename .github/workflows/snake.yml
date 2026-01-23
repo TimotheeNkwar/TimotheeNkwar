@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 
-# Ajoute ces permissions au niveau du job ou du workflow
+# Add necessary permissions to the workflow
 permissions:
-  contents: write # Indispensable pour push sur une branche
+  contents: write # If you are pushing to a branch
 
 on:
   schedule:
