@@ -136,7 +136,6 @@ If you find my projects valuable, consider **starring** my repositories! Your su
 **Open to:**
 
 - ![Collaboration](https://img.shields.io/badge/-Collaborations-00A86B?style=flat&logo=handshake&logoColor=white) on AI/ML projects
-- ![Speaking](https://img.shields.io/badge/-Speaking_Engagements-FF6B6B?style=flat&logo=megaphone&logoColor=white) & tech talks
 - ![Consulting](https://img.shields.io/badge/-Consulting-FFD700?style=flat&logo=briefcase&logoColor=black) on RAG/LLM systems and fraud detection
 - ![Knowledge](https://img.shields.io/badge/-Knowledge_Sharing-4169E1?style=flat&logo=book&logoColor=white) through blog posts & tutorials
 
