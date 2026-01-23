@@ -48,7 +48,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 - **Frontend & Web**: HTML5 • CSS3 • JavaScript • React basics • Responsive Design
 - **MLOps & Backend**: FastAPI • Flask • Django • Docker • CI/CD (GitHub Actions • GitLab) • Railway • Heroku • Prometheus/Grafana
 - **Cloud & Big Data**: Google Cloud Platform (GCP: BigQuery, Cloud Run, Vertex AI) • Databricks • Snowflake • MongoDB • Supabase • PostgreSQL • Firebase
-- **Tools & Platforms**: Git • Linux • Jupyter • Postman • Insomnia • VS Code • PyCharm • DBeaver • Weights & Biases • Apache Airflow basics
+- **Tools & Platforms**: Git • Linux • Jupyter • Postman • Insomnia • VS Code • PyCharm • DBeaver • Weights & Biases • Insomnia
 
 ## ![star](https://img.shields.io/badge/-star-FFD700?style=flat) Technical Highlights
 
