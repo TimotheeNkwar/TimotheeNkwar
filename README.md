@@ -32,6 +32,9 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat&logo=xgboost&logoColor=white&format=svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white&format=svg)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&format=svg)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&format=svg)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white&format=svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&format=svg)
 
 ### ![list](https://img.shields.io/badge/-list-cyan?style=flat) Full Skills List
 
