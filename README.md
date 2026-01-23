@@ -76,7 +76,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## ![rocket](https://img.shields.io/badge/-rocket-green?style=flat) Featured Projects
 
-Pin these repos on your profile!
+![personal](https://img.shields.io/badge/-Personal_Projects-6c63ff?style=flat&logo=star&logoColor=white) Pin these repos on your profile!
 
 - ![RAG](https://img.shields.io/badge/-RAG_Chatbot-412991?style=flat&logo=openai&logoColor=white) **RAG-Based Chatbot System** – Production-ready intelligent Q&A system with LangChain, Pinecone, and OpenAI. 10K+ queries processed. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white&format=svg) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&format=svg)
 
