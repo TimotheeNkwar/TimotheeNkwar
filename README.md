@@ -73,7 +73,7 @@ Pin these repos on your profile!
 - Data Science Associate (DataCamp) – Jun 2025
 - Professional Data Science (IBM) – Apr 2025
 - Advanced Data Analytics (Google) – May 2025
-- RAG and Agentic AI (IBM) – Coming Soon
+- RAG and Agentic AI (IBM) – January 2026
 
 ## 🌱 Currently Learning
 
