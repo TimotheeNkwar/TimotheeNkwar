@@ -1,4 +1,4 @@
-# ![wave](https://img.shields.io/badge/-wave-yellow?style=flat) Hi, I'm Timothee Kabongo Nkwar
+# ![wave](https://img.shields.io/badge/-wave-yellow?style=flat) Hi, I'm Timothee K. Nkwar
 
 ![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Data%20Scientist.png)
 
