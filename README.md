@@ -54,11 +54,11 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 | Focus Area | Expertise |
 | --- | --- |
-| ![RAG](https://img.shields.io/badge/-RAG/LLM-412991?style=flat&logo=openai&logoColor=white) **RAG/LLM Systems** | 5+ production RAG chatbots, vector database optimization, prompt engineering |
+| ![RAG](https://img.shields.io/badge/-RAG/LLM-412991?style=flat&logo=openai&logoColor=white) **RAG/LLM Systems** | 1 Development RAG chatbots, vector database optimization, prompt engineering |
 | ![Fraud](https://img.shields.io/badge/-Fraud_Detection-FF6B6B?style=flat&logo=shield&logoColor=white) **Fraud Detection** | Real-time systems with 98%+ accuracy, 10+ ML models deployed |
 | ![Data](https://img.shields.io/badge/-Data_Engineering-4169E1?style=flat&logo=postgresql&logoColor=white) **Data Engineering** | ETL pipelines, BigQuery optimization, real-time streaming (50K+ records/sec) |
 | ![MLOps](https://img.shields.io/badge/-MLOps-FF7F0E?style=flat&logo=docker&logoColor=white) **MLOps & Deployment** | End-to-end ML lifecycle, CI/CD automation, monitoring & alerting |
-| ![Leadership](https://img.shields.io/badge/-Leadership-6B21A8?style=flat&logo=users&logoColor=white) **Leadership** | Project management, cross-functional collaboration, 20+ stakeholder coordination |
+| ![Leadership](https://img.shields.io/badge/-Leadership-6B21A8?style=flat&logo=users&logoColor=white) **Leadership** | Project management, cross-functional collaboration |
 
 ## ![wrench](https://img.shields.io/badge/-wrench-red?style=flat) Key Competencies
 
