@@ -40,7 +40,7 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 - **LLM & RAG Systems**: Retrieval-Augmented Generation • Prompt Engineering • Vector Databases (Pinecone) • OpenAI • Ollama
 - **MLOps & Backend**: FastAPI • Flask • Docker • CI/CD (GitHub Actions • GitLab) • Railway • Heroku • Prometheus/Grafana basics
 - **Cloud & Big Data**: Google Cloud Platform (GCP: BigQuery, Cloud Run, Vertex AI) • Databricks • Snowflake • MongoDB • Supabase • PostgreSQL
-- **Tools**: Git • Linux • Jupyter • Postman • VS Code • PyCharm • Weights & Biases (basics)
+- **Tools**: Git • Linux • Jupyter • Postman • Insomnia • VS Code • PyCharm • Weights & Biases (basics)
 
 ## 🛠️ Key Competencies
 
