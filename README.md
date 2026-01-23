@@ -55,10 +55,11 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 | Focus Area | Expertise |
 | --- | --- |
 | ![RAG](https://img.shields.io/badge/-RAG/LLM-412991?style=flat&logo=openai&logoColor=white) **RAG/LLM Systems** | 1 Development RAG chatbots, vector database optimization, prompt engineering |
-| ![Fraud](https://img.shields.io/badge/-Fraud_Detection-FF6B6B?style=flat&logo=shield&logoColor=white) **Fraud Detection** | Real-time systems with 98%+ accuracy, 10+ ML models deployed |
+| ![Fraud](https://img.shields.io/badge/-Fraud_Detection-FF6B6B?style=flat&logo=shield&logoColor=white) **Fraud Detection** | Real-time systems with 98%+ accuracy, 4+ ML models deployed |
 | ![Data](https://img.shields.io/badge/-Data_Engineering-4169E1?style=flat&logo=postgresql&logoColor=white) **Data Engineering** | ETL pipelines, BigQuery optimization, real-time streaming (50K+ records/sec) |
 | ![MLOps](https://img.shields.io/badge/-MLOps-FF7F0E?style=flat&logo=docker&logoColor=white) **MLOps & Deployment** | End-to-end ML lifecycle, CI/CD automation, monitoring & alerting |
 | ![Leadership](https://img.shields.io/badge/-Leadership-6B21A8?style=flat&logo=users&logoColor=white) **Leadership** | Project management, cross-functional collaboration |
+| ![Personal](https://img.shields.io/badge/-Personal_Projects-6c63ff?style=flat&logo=star&logoColor=white) **Personal Projects** | 5+ ML projects deployed, RAG systems, fraud detection, price optimization |
 
 ## ![wrench](https://img.shields.io/badge/-wrench-red?style=flat) Key Competencies
 
