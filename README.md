@@ -54,11 +54,11 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 | Focus Area | Expertise |
 | --- | --- |
-| 🤖 **RAG/LLM Systems** | 5+ production RAG chatbots, vector database optimization, prompt engineering |
-| 🔍 **Fraud Detection** | Real-time systems with 98%+ accuracy, 10+ ML models deployed |
-| 📊 **Data Engineering** | ETL pipelines, BigQuery optimization, real-time streaming (50K+ records/sec) |
-| 🚀 **MLOps & Deployment** | End-to-end ML lifecycle, CI/CD automation, monitoring & alerting |
-| 👥 **Leadership** | Project management, cross-functional collaboration, 20+ stakeholder coordination |
+| ![RAG](https://img.shields.io/badge/-RAG/LLM-412991?style=flat&logo=openai&logoColor=white) **RAG/LLM Systems** | 5+ production RAG chatbots, vector database optimization, prompt engineering |
+| ![Fraud](https://img.shields.io/badge/-Fraud_Detection-FF6B6B?style=flat&logo=shield&logoColor=white) **Fraud Detection** | Real-time systems with 98%+ accuracy, 10+ ML models deployed |
+| ![Data](https://img.shields.io/badge/-Data_Engineering-4169E1?style=flat&logo=postgresql&logoColor=white) **Data Engineering** | ETL pipelines, BigQuery optimization, real-time streaming (50K+ records/sec) |
+| ![MLOps](https://img.shields.io/badge/-MLOps-FF7F0E?style=flat&logo=docker&logoColor=white) **MLOps & Deployment** | End-to-end ML lifecycle, CI/CD automation, monitoring & alerting |
+| ![Leadership](https://img.shields.io/badge/-Leadership-6B21A8?style=flat&logo=users&logoColor=white) **Leadership** | Project management, cross-functional collaboration, 20+ stakeholder coordination |
 
 ## ![wrench](https://img.shields.io/badge/-wrench-red?style=flat) Key Competencies
 
@@ -78,19 +78,19 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 Pin these repos on your profile!
 
-- **🤖 RAG-Based Chatbot System** – Production-ready intelligent Q&A system with LangChain, Pinecone, and OpenAI. 10K+ queries processed. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white&format=svg) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&format=svg)
+- ![RAG](https://img.shields.io/badge/-RAG_Chatbot-412991?style=flat&logo=openai&logoColor=white) **RAG-Based Chatbot System** – Production-ready intelligent Q&A system with LangChain, Pinecone, and OpenAI. 10K+ queries processed. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white&format=svg) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&format=svg)
 
-- **💳 Credit Card Fraud Detection** (Jul 2025) – Real-time fraud detection achieving **98%+ accuracy** with XGBoost and streaming pipelines. Reduced false positives by 40%. ![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat&format=svg) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
+- ![Fraud](https://img.shields.io/badge/-Credit_Card-FF6B6B?style=flat&logo=credit-card&logoColor=white) **Credit Card Fraud Detection** (Jul 2025) – Real-time fraud detection achieving **98%+ accuracy** with XGBoost and streaming pipelines. Reduced false positives by 40%. ![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat&format=svg) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
 
-- **💰 Customer Lifetime Value Optimization** (Oct 2025) – ML-driven CLV predictions improving retention by 25% and ROI by 35%. Segmented 100K+ customers. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
+- ![CLV](https://img.shields.io/badge/-Customer_Lifetime_Value-FF1493?style=flat&logo=chart-line&logoColor=white) **Customer Lifetime Value Optimization** (Oct 2025) – ML-driven CLV predictions improving retention by 25% and ROI by 35%. Segmented 100K+ customers. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
 
-- **🌍 SECA-System: Coupon & Distribution Management** (Jun 2025 – Jan 2026) – Transparent, blockchain-inspired distribution system serving **50K+ beneficiaries** in DR Congo. Role: Project Manager & System Architect. ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&format=svg) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
+- ![Distribution](https://img.shields.io/badge/-SECA_System-00A86B?style=flat&logo=earth&logoColor=white) **SECA-System: Coupon & Distribution Management** (Jun 2025 – Jan 2026) – Transparent, blockchain-inspired distribution system serving **50K+ beneficiaries** in DR Congo. Role: Project Manager & System Architect. ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&format=svg) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
 
-- **💹 Dynamic Price Optimization** (Jul 2025) – Revenue uplift **+18%** through ML-powered dynamic pricing and demand forecasting. Automated pipelines with real-time adjustments. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&format=svg)
+- ![Pricing](https://img.shields.io/badge/-Dynamic_Pricing-FFD700?style=flat&logo=trending-up&logoColor=black) **Dynamic Price Optimization** (Jul 2025) – Revenue uplift **+18%** through ML-powered dynamic pricing and demand forecasting. Automated pipelines with real-time adjustments. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&format=svg) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&format=svg)
 
-- **🚀 SpaceX Launch Analysis** (Jun 2025) – Mission-success predictions via API extraction, SQL analysis, and interactive dashboards. 100+ launch records analyzed. ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&format=svg) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
+- ![SpaceX](https://img.shields.io/badge/-SpaceX_Launch-1f77b4?style=flat&logo=rocket&logoColor=white) **SpaceX Launch Analysis** (Jun 2025) – Mission-success predictions via API extraction, SQL analysis, and interactive dashboards. 100+ launch records analyzed. ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&format=svg) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&format=svg) [GitHub](https://github.com/TimotheeNkwar)
 
-*🔍 **More projects in my repositories** – Explore RAG chatbots, fraud detection, MLOps, and production ML systems!*
+![More](https://img.shields.io/badge/-More_Projects-6c63ff?style=flat&logo=github&logoColor=white) **More projects in my repositories** – Explore RAG chatbots, fraud detection, MLOps, and production ML systems!
 
 ## ![certificate](https://img.shields.io/badge/-certificate-FFD700?style=flat) Certifications
 
@@ -99,17 +99,17 @@ Pin these repos on your profile!
 - Advanced Data Analytics (Google) – May 2025
 - RAG and Agentic AI (IBM) – January 2026
 
-## 📚 Currently Learning & Development
+## ![learning](https://img.shields.io/badge/-Currently_Learning-4169E1?style=flat&logo=book&logoColor=white) Learning & Development
 
 | Course/Certification | Status | Completion |
 | --- | --- | --- |
-| Project Management Professional Certificate (Google) | 🔄 In Progress | 70% |
-| AI & ML Engineering (Microsoft) | 🔄 In Progress | 60% |
-| Mathematics for Machine Learning and Data Science (DeepLearning.AI) | 🔄 In Progress | 50% |
-| Advanced RAG Systems Architecture | 🎯 Planned | Q2 2026 |
-| Cloud Solutions Architect (GCP) | 🎯 Planned | Q3 2026 |
+| Project Management Professional Certificate (Google) | ![Progress](https://img.shields.io/badge/-In_Progress-FF9800?style=flat&logo=progress&logoColor=white) | 70% |
+| AI & ML Engineering (Microsoft) | ![Progress](https://img.shields.io/badge/-In_Progress-FF9800?style=flat&logo=progress&logoColor=white) | 60% |
+| Mathematics for Machine Learning and Data Science (DeepLearning.AI) | ![Progress](https://img.shields.io/badge/-In_Progress-FF9800?style=flat&logo=progress&logoColor=white) | 50% |
+| Advanced RAG Systems Architecture | ![Planned](https://img.shields.io/badge/-Planned-9370DB?style=flat&logo=calendar&logoColor=white) | Q2 2026 |
+| Cloud Solutions Architect (GCP) | ![Planned](https://img.shields.io/badge/-Planned-9370DB?style=flat&logo=calendar&logoColor=white) | Q3 2026 |
 
-## 🌟 Open Source & Community
+## ![open-source](https://img.shields.io/badge/-Open_Source_&_Community-6c63ff?style=flat&logo=github&logoColor=white)
 
 - **Contributing to**: TensorFlow, Hugging Face Transformers (planned Q1 2026)
 - **Active in**: Data Science communities, AI/ML forums, and local tech meetups
@@ -137,9 +137,9 @@ If you find my projects valuable, consider **starring** my repositories! Your su
 
 **Open to:**
 
-- 🤝 Collaborations on AI/ML projects
-- 💬 Speaking engagements & tech talks
-- 📚 Consulting on RAG/LLM systems and fraud detection
-- 🌱 Knowledge sharing through blog posts & tutorials
+- ![Collaboration](https://img.shields.io/badge/-Collaborations-00A86B?style=flat&logo=handshake&logoColor=white) on AI/ML projects
+- ![Speaking](https://img.shields.io/badge/-Speaking_Engagements-FF6B6B?style=flat&logo=megaphone&logoColor=white) & tech talks
+- ![Consulting](https://img.shields.io/badge/-Consulting-FFD700?style=flat&logo=briefcase&logoColor=black) on RAG/LLM systems and fraud detection
+- ![Knowledge](https://img.shields.io/badge/-Knowledge_Sharing-4169E1?style=flat&logo=book&logoColor=white) through blog posts & tutorials
 
-Thanks for visiting! 🚀
+Thanks for visiting! ![success](https://img.shields.io/badge/-Let's_Build_Together-6c63ff?style=flat&logo=rocket&logoColor=white)
