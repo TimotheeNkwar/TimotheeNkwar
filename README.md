@@ -112,7 +112,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset, architecting and
 
 - **Contributing to**: TensorFlow, Hugging Face Transformers (planned Q1 2026)
 - **Active in**: Data Science communities, AI/ML forums, and local tech meetups
-- **Speaking & Content**: Tech blog, tutorial creation, knowledge sharing on Medium (launching Q2 2026)
 
 ## ![snake](https://img.shields.io/badge/-snake-yellowgreen?style=flat) My Contributions
 
