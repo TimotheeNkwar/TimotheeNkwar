@@ -117,7 +117,56 @@ Innovative and proactive AI/ML Engineer with a builder mindset, architecting and
 
 ### Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
+<div style="margin: 20px 0;">
+
+  <div style="display: flex; gap: 10px; margin-bottom: 15px; flex-wrap: wrap;">
+    <button onclick="showSnakeYear('all')" id="btn-all" style="padding: 8px 16px; border: 2px solid #2ecc71; background: #2ecc71; color: white; border-radius: 5px; cursor: pointer; font-weight: bold;">📅 All Time</button>
+    <button onclick="showSnakeYear('2024')" id="btn-2024" style="padding: 8px 16px; border: 2px solid #3498db; background: transparent; color: #3498db; border-radius: 5px; cursor: pointer; font-weight: bold;">🐍 2024</button>
+    <button onclick="showSnakeYear('2025')" id="btn-2025" style="padding: 8px 16px; border: 2px solid #e74c3c; background: transparent; color: #e74c3c; border-radius: 5px; cursor: pointer; font-weight: bold;">🐍 2025</button>
+    <button onclick="showSnakeYear('2026')" id="btn-2026" style="padding: 8px 16px; border: 2px solid #f39c12; background: transparent; color: #f39c12; border-radius: 5px; cursor: pointer; font-weight: bold;">🐍 2026</button>
+  </div>
+
+  <div id="snake-all" style="display: block;">
+    ![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
+  </div>
+
+  <div id="snake-2024" style="display: none;">
+    <img src="https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake 2024" width="100%">
+  </div>
+
+  <div id="snake-2025" style="display: none;">
+    <img src="https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-gradient.svg" alt="GitHub Contribution Snake 2025" width="100%">
+  </div>
+
+  <div id="snake-2026" style="display: none;">
+    <img src="https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-ocean.svg" alt="GitHub Contribution Snake 2026" width="100%">
+  </div>
+</div>
+
+<script>
+function showSnakeYear(year) {
+  // Hide all snakes
+  document.getElementById('snake-all').style.display = 'none';
+  document.getElementById('snake-2024').style.display = 'none';
+  document.getElementById('snake-2025').style.display = 'none';
+  document.getElementById('snake-2026').style.display = 'none';
+  
+  // Reset all buttons
+  document.getElementById('btn-all').style.background = 'transparent';
+  document.getElementById('btn-all').style.color = '#2ecc71';
+  document.getElementById('btn-2024').style.background = 'transparent';
+  document.getElementById('btn-2024').style.color = '#3498db';
+  document.getElementById('btn-2025').style.background = 'transparent';
+  document.getElementById('btn-2025').style.color = '#e74c3c';
+  document.getElementById('btn-2026').style.background = 'transparent';
+  document.getElementById('btn-2026').style.color = '#f39c12';
+  
+  // Show selected snake and highlight button
+  document.getElementById('snake-' + year).style.display = 'block';
+  document.getElementById('btn-' + year).style.background = 'currentColor';
+  document.getElementById('btn-' + year).style.color = 'white';
+}
+</script>
 
 | Platform | Link | Description |
 | ---------- | ------ | --- |
