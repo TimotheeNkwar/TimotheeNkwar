@@ -117,10 +117,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset, architecting and
 
 ### Contribution Activity
 
-#### 📅 All Time Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
-
 ![GitHub Contribution Snake 2026](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake-ocean.svg)
 
 | Platform | Link | Description |
