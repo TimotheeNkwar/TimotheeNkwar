@@ -4,7 +4,7 @@
 
 ## AI|ML Engineer | Data Scientist
 
-Innovative and proactive AI/ML Engineer with a builder mindset, architecting and deploying production-grade AI systems from concept to scale. Proven expertise in **RAG/LLM systems**, real-time fraud detection ML pipelines, scalable ML infrastructure, and leading cross-functional teams to deliver intelligent solutions.
+Innovative and proactive AI/ML Engineer with a builder mindset and insatiable curiosity, architecting and deploying production-grade AI systems from concept to scale. Proven expertise in **RAG/LLM systems**, real-time fraud detection ML pipelines, scalable ML infrastructure, and leading cross-functional teams to deliver intelligent solutions.
 
 ![location](https://img.shields.io/badge/-location-red?style=flat) Nicosia, Cyprus | ![email](https://img.shields.io/badge/-email-blue?style=flat) <timotheenkwar@gmail.com> | ![globe](https://img.shields.io/badge/-globe-green?style=flat) [timotheenkwar.me](https://timotheenkwar.me) | ![briefcase](https://img.shields.io/badge/-briefcase-black?style=flat) [LinkedIn](https://www.linkedin.com/in/timothee-nkwar)
 
