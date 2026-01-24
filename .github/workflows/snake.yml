@@ -30,7 +30,6 @@ jobs:
             dist/github-contribution-grid-snake-black.svg?color_snake=%23000000&color_dots=%23333333,%23555555,%23777777,%23999999
             dist/github-contribution-grid-snake-gradient.svg?color_snake=%23228B22&color_dots=%2310b981,%2334d399,%236ee7b7,%23a7f3d0
             dist/github-contribution-grid-snake-ocean.svg?color_snake=%232d7d5e&color_dots=%2310b981,%2334d399,%236ee7b7,%23a7f3d0
-            dist/github-contribution-grid-snake-blue.svg?color_snake=%231E90FF&color_dots=%231E90FF,%232E8BF5,%234A9FFF,%236BB6FF
             dist/github-contribution-grid-snake-radical.svg?palette=radical
             dist/github-contribution-grid-snake-dracula.svg?palette=dracula
             dist/github-contribution-grid-snake-tokyonight.svg?palette=tokyonight
