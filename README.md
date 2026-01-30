@@ -12,13 +12,13 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ## ![trophy](https://img.shields.io/badge/-trophy-FFD700?style=flat) GitHub Achievements
 
-[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 ## ![chart](https://img.shields.io/badge/-chart-blueviolet?style=flat) GitHub Stats
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=merko&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=merko&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
