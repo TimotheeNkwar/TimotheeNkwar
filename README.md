@@ -12,11 +12,15 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ## ![trophy](https://img.shields.io/badge/-trophy-FFD700?style=flat) GitHub Achievements
 
+<div align="center">
+
 ### 🔥 GitHub Streak - Consistent Daily Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=merko&hide_border=true&stroke=FFBF45&ring=FFD700&fire=FF6B6B&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF)](https://git.io/streak-stats)
 
 **Track my dedication to continuous learning & development** 🚀
+
+</div>
 
 ## ![chart](https://img.shields.io/badge/-chart-FFD700?style=flat) GitHub Stats
 
