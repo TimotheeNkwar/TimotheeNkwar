@@ -10,13 +10,13 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-## ![trophy](https://img.shields.io/badge/-trophy-FFD700?style=flat) GitHub Achievements
+## ![trophy](https://img.shields.io/badge/-trophy-1F6FEB?style=flat) GitHub Achievements
 
 <div align="center">
 
-### ![fire](https://img.shields.io/badge/-fire-FF6B6B?style=flat) GitHub Streak - Consistent Daily Contributions
+### ![fire](https://img.shields.io/badge/-fire-FF1744?style=flat) GitHub Streak - Consistent Daily Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=merko&hide_border=true&stroke=FFBF45&ring=FFD700&fire=FF6B6B&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=merko&hide_border=true&stroke=00D9FF&ring=1F6FEB&fire=FF1744&currStreakNum=1F6FEB&sideNums=00D9FF&currStreakLabel=1F6FEB&sideLabels=00D9FF&dates=FFFFFF)](https://git.io/streak-stats)
 
 **Track my dedication to continuous learning & development** ![rocket-emoji](https://img.shields.io/badge/-rocket-FFD700?style=flat)
 
@@ -24,11 +24,11 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ## ![chart](https://img.shields.io/badge/-chart-FFD700?style=flat) GitHub Stats
 
-### ![chart-emoji](https://img.shields.io/badge/-chart-FFD700?style=flat) Performance & Analytics at a Glance
+### ![chart-emoji](https://img.shields.io/badge/-chart-00D9FF?style=flat) Performance & Analytics at a Glance
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=FFD700&title_color=FFD700)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=merko&hide_border=true&langs_count=8&bg_color=0d1117&text_color=ffffff&title_color=FFD700)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00D9FF&title_color=1F6FEB)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=merko&hide_border=true&langs_count=8&bg_color=0d1117&text_color=ffffff&title_color=1F6FEB)](https://github.com/anuraghazra/github-readme-stats) |
 
 ### ![graph-emoji](https://img.shields.io/badge/-graph-4169E1?style=flat) Activity Timeline
 
