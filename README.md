@@ -59,7 +59,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white&format=svg)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&format=svg)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white&format=svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&format=svg)
 
 ### ![list](https://img.shields.io/badge/-list-cyan?style=flat) Full Skills List
 
@@ -126,12 +125,12 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 | Project Management Professional Certificate (Google) | ![Progress](https://img.shields.io/badge/-In_Progress-FF9800?style=flat&logo=progress&logoColor=white) | 70% |
 | AI & ML Engineering (Microsoft) | ![Progress](https://img.shields.io/badge/-In_Progress-FF9800?style=flat&logo=progress&logoColor=white) | 60% |
 | Mathematics for Machine Learning and Data Science (DeepLearning.AI) | ![Progress](https://img.shields.io/badge/-In_Progress-FF9800?style=flat&logo=progress&logoColor=white) | 50% |
-| Advanced RAG Systems Architecture | ![Planned](https://img.shields.io/badge/-Planned-9370DB?style=flat&logo=calendar&logoColor=white) | Q2 2026 |
+| Advanced RAG Systems Architecture | ![Planned](https://img.shields.io/badge/-Planned-9370DB?style=flat&logo=calendar&logoColor=white) | Q4 2026 |
 | Cloud Solutions Architect (GCP) | ![Planned](https://img.shields.io/badge/-Planned-9370DB?style=flat&logo=calendar&logoColor=white) | Q3 2026 |
 
 ## ![open-source](https://img.shields.io/badge/-Open_Source_&_Community-6c63ff?style=flat&logo=github&logoColor=white)
 
-- **Contributing to**: TensorFlow, Hugging Face Transformers (planned Q1 2026)
+- **Contributing to**: TensorFlow, Hugging Face Transformers (planned Q4 2026)
 - **Active in**: Data Science communities, AI/ML forums, and local tech meetups
 
 ## ![snake](https://img.shields.io/badge/-snake-yellowgreen?style=flat) My Contributions
