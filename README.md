@@ -2,7 +2,7 @@
 
 ![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Data-Scientist.png)
 
-## AI|ML Engineer | Data Scientist
+## Full Stack AI Engineer | Data Scientist
 
 Innovative and proactive AI/ML Engineer with a builder mindset and insatiable curiosity, architecting and deploying production-grade AI systems from concept to scale. Proven expertise in **RAG/LLM systems**, real-time fraud detection ML pipelines, scalable ML infrastructure, and leading cross-functional teams to deliver intelligent solutions.
 
