@@ -58,8 +58,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
   </component>
@@ -76,6 +76,7 @@
       <workItem from="1770368037967" duration="1000" />
       <workItem from="1770368064234" duration="96000" />
       <workItem from="1770629028103" duration="114000" />
+      <workItem from="1772453372263" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="update README with">
       <option name="closed" value="true" />
