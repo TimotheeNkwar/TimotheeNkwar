@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "filesystem": {
+            "command": "uvx",
+            "args": [
+                "mcp-server-filesystem",
+                "--allowed-directories",
+                "/home/timothee/PycharmProjects/TimotheeNkwar"
+            ]
+        }
+    }
+}
