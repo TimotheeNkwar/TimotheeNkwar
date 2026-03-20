@@ -111,10 +111,8 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 | Course/Certification | Status | Completion |
 | --- | --- | --- |
 | Project Management Professional Certificate (Google) | In Progress | 70% |
-| AI & ML Engineering (Microsoft) | In Progress | 60% |
-| Mathematics for Machine Learning and Data Science (DeepLearning.AI) | In Progress | 50% |
-| Advanced RAG Systems Architecture | Planned | Q4 2026 |
-| Cloud Solutions Architect (GCP) | Planned | Q3 2026 |
+| AI & ML Engineering (Microsoft) | In Progress | Done |
+| Mathematics for Machine Learning and Data Science (DeepLearning.AI) | In Progress | 35% |
 
 ---
 
