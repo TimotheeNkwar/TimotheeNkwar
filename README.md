@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Timothee K. Nkwar
 
-![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Timothee.png)
+![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/datacamp-banner.png)
 
 ## Full Stack AI Engineer | Data Scientist
 
