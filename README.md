@@ -68,7 +68,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 - Building **RAG-based chatbots** and intelligent information retrieval systems with state-of-the-art architectures
 - Real-time **fraud detection** & anomaly detection using ML models and streaming pipelines (98%+ accuracy)
 - End-to-end Data Science projects: initiation → data engineering → modeling → deployment → monitoring
-- Managed the SCEA coupon distribution system in DR Congo (project manager & system designer) - served 50K+ users
 - Cross-functional collaboration with engineers, DevOps, product owners, and stakeholders
 - Strong communication, leadership potential, analytical mindset, problem-solving under pressure
 
@@ -103,6 +102,7 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 - Professional Data Science (IBM) – Apr 2025
 - Advanced Data Analytics (Google) – May 2025
 - RAG and Agentic AI (IBM) – January 2026
+- AI & ML Engineering (Microsoft) – Feb 2026
 
 ---
 
@@ -152,4 +152,4 @@ If you find my projects valuable, consider **starring** my repositories! Your su
 
 ---
 
-**Thanks for visiting! Let's build together 🚀**
+## Thanks for visiting! Let's build together
