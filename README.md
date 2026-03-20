@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Timothee K. Nkwar
+# ✨ Hi, I'm Timothee Nkwar
 
 ![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Nkwar.png)
 
