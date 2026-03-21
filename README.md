@@ -45,10 +45,10 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 - **Languages**: Python • SQL • Bash • JavaScript • HTML • CSS
 - **Machine Learning & Data Science**: Scikit-learn • XGBoost • LightGBM • Pandas • NumPy • Matplotlib • Seaborn • TensorFlow • Keras
 - **LLM & RAG Systems**: Retrieval-Augmented Generation • Prompt Engineering • Vector Databases (Faiss,Pinecone, ChromaDB) • OpenAI • Ollama • LangChain
-- **Frontend & Web**: HTML5 • CSS3 • JavaScript • React basics • Responsive Design
+- **Frontend & Web**: HTML5 • CSS3 • JavaScript basics • React basics • Responsive Design
 - **MLOps & Backend**: FastAPI • Flask • Docker • CI/CD (GitHub Actions • GitLab) • Railway • Heroku • Prometheus/Grafana
-- **Cloud & Big Data**: Google Cloud Platform (GCP: BigQuery, Cloud Run, Vertex AI) • Databricks • Snowflake • MongoDB • Supabase • PostgreSQL • Firebase
-- **Tools & Platforms**: Git • Linux • Jupyter • Postman • Insomnia • VS Code • PyCharm • DBeaver • Weights & Biases • Insomnia
+- **Cloud & Big Data**: Google Cloud Platform (GCP: BigQuery, Cloud Run, Vertex AI) • Databricks • Snowflake • MongoDB • Supabase • PostgreSQL
+- **Tools & Platforms**: Git • Linux • Jupyter • Postman • Insomnia • VS Code • PyCharm • DBeaver • Insomnia
 
 ---
 
