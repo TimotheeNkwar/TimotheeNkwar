@@ -73,13 +73,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ---
 
-## 📚 Education
-
-- **Applied Data Science Labs** – WorldQuant University (Online, Jun–Aug 2025)
-- **Bachelor of Data Science** – Cyprus International University (Nicosia, Cyprus, Jan 2023 – Jan 2027)
-
----
-
 ## 🚀 Featured Projects
 
 **Pin these repos on your profile!**
@@ -95,16 +88,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 - **SpaceX Launch Analysis** (Jun 2025) – Mission-success predictions via API extraction, SQL analysis, and interactive dashboards. 100+ launch records analyzed. ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=f1f5f9) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9) [GitHub](https://github.com/TimotheeNkwar)
 
 **More projects in my repositories** – Explore RAG chatbots, fraud detection, MLOps, and production ML systems!
-
-## 🏆 Certifications
-
-- Data Science Associate (DataCamp) – Jun 2025
-- Professional Data Science (IBM) – Apr 2025
-- Advanced Data Analytics (Google) – May 2025
-- RAG and Agentic AI (IBM) – January 2026
-- AI & ML Engineering (Microsoft) – Feb 2026
-
----
 
 ## 📖 Learning & Development
 
