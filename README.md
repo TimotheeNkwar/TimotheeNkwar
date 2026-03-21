@@ -73,9 +73,7 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ---
 
-## 🚀 Featured Projects
-
-**Pin these repos on your profile!**
+## 🚀 Featured Projects**
 
 - **RAG-Based Chatbot System** – Production-ready intelligent Q&A system with LangChain, Pinecone, and OpenAI. 10K+ queries processed. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=f1f5f9) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=f1f5f9)
 
