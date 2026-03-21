@@ -73,20 +73,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ---
 
-## 🚀 Featured Projects**
-
-- **RAG-Based Chatbot System** – Production-ready intelligent Q&A system with LangChain, Pinecone, and OpenAI. 10K+ queries processed. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=f1f5f9) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=f1f5f9)
-
-- **Credit Card Fraud Detection** (Jul 2025) – Real-time fraud detection achieving **98%+ accuracy** with XGBoost and streaming pipelines. Reduced false positives by 40%. ![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=for-the-badge&labelColor=f1f5f9) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9) [GitHub](https://github.com/TimotheeNkwar)
-
-- **Customer Lifetime Value Optimization** (Oct 2025) – ML-driven CLV predictions improving retention by 25% and ROI by 35%. Segmented 100K+ customers. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=f1f5f9) [GitHub](https://github.com/TimotheeNkwar)
-
-- **Dynamic Price Optimization** (Jul 2025) – Revenue uplift **+18%** through ML-powered dynamic pricing and demand forecasting. Automated pipelines with real-time adjustments. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=f1f5f9)
-
-- **SpaceX Launch Analysis** (Jun 2025) – Mission-success predictions via API extraction, SQL analysis, and interactive dashboards. 100+ launch records analyzed. ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=f1f5f9) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9) [GitHub](https://github.com/TimotheeNkwar)
-
-**More projects in my repositories** – Explore RAG chatbots, fraud detection, MLOps, and production ML systems!
-
 ## 📖 Learning & Development
 
 | Course/Certification | Status | Completion |
