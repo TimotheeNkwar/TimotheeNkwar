@@ -110,17 +110,6 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 
 ---
 
-## 📱 Connect With Me
-
-| Platform | Link | Description |
-| --- | --- | --- |
-| **LinkedIn** | [linkedin.com/in/timothee-nkwar](https://www.linkedin.com/in/timothee-nkwar) | Connect for collaboration & opportunities |
-| **Website** | [timotheenkwar.me](https://timotheenkwar.me) | Portfolio & blog posts |
-| **Email** | [timotheenkwar@gmail.com](mailto:timotheenkwar@gmail.com) | Open to consulting & speaking engagements |
-| **GitHub** | [github.com/TimotheeNkwar](https://github.com/TimotheeNkwar) | Explore my code & contributions |
-
----
-
 ## ⭐ Support & Collaborate
 
 If you find my projects valuable, consider **starring** my repositories! Your support motivates me to create more innovative solutions.
