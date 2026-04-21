@@ -59,7 +59,11 @@ My work currently centers on:
 
 ## 🌟 GitHub Contributions
 
-| GitHub Stats | Top Languages |
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF)](https://git.io/streak-stats)
+
+## 📊 GitHub Analytics
+
+| Repository Stats | Top Languages |
 | --- | --- |
 | [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=transparent&text_color=64748b&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) |
 
