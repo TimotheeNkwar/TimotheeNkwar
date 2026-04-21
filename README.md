@@ -18,6 +18,7 @@
 AI Engineer and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
 
 My work currently centers on:
+
 - RAG and LLM applications
 - Agentic AI systems
 - Fraud detection use cases
@@ -56,13 +57,15 @@ My work currently centers on:
 - AI & ML Engineering (Microsoft)
 - Mathematics for Machine Learning and Data Science (DeepLearning.AI)
 
-## GitHub Snapshot
+## 🌟 GitHub Contributions
 
 | GitHub Stats | Top Languages |
 | --- | --- |
 | [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=transparent&text_color=64748b&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) |
 
-## Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=react-dark&hide_border=true&bg_color=transparent&line=cbd5e1&point=a0aec0)
+
+## 🐍 Contributions
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
 
