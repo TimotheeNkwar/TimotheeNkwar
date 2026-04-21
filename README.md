@@ -1,28 +1,37 @@
-# ✨ Hi, I'm Timothee Nkwar
+# Timothee Nkwar
 
-![Timothee Kabongo Nkwar - Data Scientist](https://github.com/TimotheeNkwar/TimotheeNkwar/blob/main/Nkwar.png)
+<p align="center">
+  <img src="./Nkwar.png" alt="Timothee Nkwar banner" />
+</p>
 
-## Full Stack AI Engineer | Data Scientist
+<p align="center">
+  <strong>AI Engineer | Data Scientist</strong>
+</p>
 
-Innovative and proactive AI/ML Engineer with a builder mindset and insatiable curiosity, architecting and deploying production-grade AI systems from concept to scale. Proven expertise in **RAG/ Agentic AI /LLM systems**, real-time fraud detection ML pipelines, scalable ML infrastructure, and leading cross-functional teams to deliver intelligent solutions.
+<p align="center">
+  Nicosia, Cyprus •
+  <a href="https://timotheenkwar.me">Website</a> •
+  <a href="https://www.linkedin.com/in/timothee-nkwar">LinkedIn</a> •
+  <a href="mailto:timotheenkwar@gmail.com">Email</a>
+</p>
 
-📍 Nicosia, Cyprus | 📧 <timotheenkwar@gmail.com> | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 💼 [LinkedIn](https://www.linkedin.com/in/timothee-nkwar)
+AI Engineer and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
 
----
+My work currently centers on:
+- RAG and LLM applications
+- Agentic AI systems
+- Fraud detection use cases
+- Data pipelines and ML deployment
 
-## 🌟 GitHub Contributions
+## Focus Areas
 
-[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF)](https://git.io/streak-stats)
+- **RAG / LLM Systems**: RAG chatbots, vector database optimization, and prompt engineering
+- **Fraud Detection**: machine learning systems for fraud-related use cases
+- **Data Engineering**: ETL pipelines, BigQuery optimization, and real-time streaming
+- **MLOps & Deployment**: end-to-end ML lifecycle, CI/CD automation, monitoring, and alerting
+- **Collaboration**: project management and cross-functional teamwork
 
-## 📊 GitHub Analytics
-
-| Repository Stats | Top Languages |
-| --- | --- |
-| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=transparent&text_color=64748b&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) |
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=react-dark&hide_border=true&bg_color=transparent&line=cbd5e1&point=a0aec0)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9)
@@ -39,52 +48,24 @@ Innovative and proactive AI/ML Engineer with a builder mindset and insatiable cu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=f1f5f9)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f1f5f9)
----
 
-## 🌟 Expertise Areas
+## Learning & Certification
 
-| Focus Area | Expertise |
+- DataCamp: AI Engineer for Developers Associate
+- Google Project Management Professional Certificate
+- AI & ML Engineering (Microsoft)
+- Mathematics for Machine Learning and Data Science (DeepLearning.AI)
+
+## GitHub Snapshot
+
+| GitHub Stats | Top Languages |
 | --- | --- |
-| **RAG/LLM Systems** | Development of RAG chatbots, vector database optimization, prompt engineering |
-| **Fraud Detection** | Real-time systems with 98%+ accuracy, 4+ ML models deployed |
-| **Data Engineering** | ETL pipelines, BigQuery optimization, real-time streaming (50K+ records/sec) |
-| **MLOps & Deployment** | End-to-end ML lifecycle, CI/CD automation, monitoring & alerting |
-| **Leadership** | Project management, cross-functional collaboration |
-| **Personal Projects** | 5+ ML projects deployed, RAG systems, fraud detection, price optimization |
+| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=transparent&text_color=64748b&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) |
 
-## 📖 Learning & Development
-
-| Course/Certification | Status | Completion |
-| --- | --- | --- |
-| Project Management Professional Certificate (Google) | In Progress | 70% |
-| AI & ML Engineering (Microsoft) | In Progress | Done |
-| Mathematics for Machine Learning and Data Science (DeepLearning.AI) | In Progress | 35% |
-
----
-
-## 🌐 Open Source & Community
-
-- **Contributing to**: TensorFlow, Hugging Face Transformers (planned Q4 2026)
-- **Active in**: Data Science communities, AI/ML forums, and local tech meetups
-
----
-
-## 🐍 Contributions
+## Contributions
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
 
----
+## Collaboration
 
-## ⭐ Support & Collaborate
-
-If you find my projects valuable, consider **starring** my repositories! Your support motivates me to create more innovative solutions.
-
-**Open to:**
-
-- 🤝 Collaborations on AI/ML projects
-- 💼 Consulting on RAG/LLM systems and fraud detection
-- 📚 Knowledge sharing through blog posts & tutorials
-
----
-
-## Thanks for visiting! Let's build together
+Open to collaborating on AI/ML projects, RAG and LLM systems, and practical data products.
