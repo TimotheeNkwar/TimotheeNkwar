@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Nicosia, Cyprus •
+  Nicosia, Northen Cyprus •
   <a href="https://timotheenkwar.me">Website</a> •
   <a href="https://www.linkedin.com/in/timothee-nkwar">LinkedIn</a> •
   <a href="mailto:timotheenkwar@gmail.com">Email</a>
