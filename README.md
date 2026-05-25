@@ -8,7 +8,6 @@
 <p align="center">
   <strong>AI Engineer | Data Scientist</strong>
 </p>
-s
 <p align="center">
   <a href="https://timotheenkwar.me"><img src="https://img.shields.io/badge/Website-timotheenkwar.me-0f172a?style=flat-square&logo=globe&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/timothee-nkwar"><img src="https://img.shields.io/badge/LinkedIn-Timothee_Nkwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
