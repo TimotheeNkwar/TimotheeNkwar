@@ -8,7 +8,6 @@
 <p align="center">
   <strong>AI Engineer | Data Scientist</strong>
 </p>
-s
 <p align="center">
   <a href="https://timotheenkwar.me"><img src="https://img.shields.io/badge/Website-timotheenkwar.me-0f172a?style=flat-square&logo=globe&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/timothee-nkwar"><img src="https://img.shields.io/badge/LinkedIn-Timothee_Nkwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -64,15 +63,15 @@ My work currently centers on:
 - 🎓 <a href="https://www.credly.com/badges/c197e84c-44d0-412b-8721-6b8a3529410e/public_url" target="_blank">IBM RAG and Agentic AI Engineer</a> — IBM *(2025)*
 ## 🌟 GitHub Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF&v=1)](https://git.io/streak-stats)
 
 ## 📊 GitHub Analytics
 
 | Repository Stats | Top Languages |
 | --- | --- |
-| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=transparent&text_color=64748b&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569&v=1)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=transparent&text_color=64748b&title_color=475569&v=1)](https://github.com/anuraghazra/github-readme-stats) |
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=react-dark&hide_border=true&bg_color=transparent&line=cbd5e1&point=a0aec0)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=react-dark&hide_border=true&bg_color=transparent&line=cbd5e1&point=a0aec0&v=1)
 
 ## 🐍 Contributions
 
