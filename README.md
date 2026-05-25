@@ -54,11 +54,13 @@ My work currently centers on:
 
 ## Certifications
 
-- 🎓 [AI Engineer for Developers Associate]([https://www.datacamp.com](https://www.datacamp.com/certificate/AIEDA0018578690392)) — DataCamp *(2026)*
-- 🎓 [Google Project Management Professional Certificate]([https://www.coursera.org](https://www.credly.com/badges/19e21884-aa1e-4e77-973c-992b5fe06a5d/public_url)) — Google / Coursera *(2026)*
-- 🎓 [AI & ML Engineering](https://www.credly.com/badges/c2fd37f5-8af1-4664-81b8-a3fe205ef9e8/public_url) — Microsoft *(2026)*
-- 🎓 [IBM RAG and Agentic AI Engineer](https://www.deeplearning.ai](https://www.credly.com/badges/c197e84c-44d0-412b-8721-6b8a3529410e/public_url)) — IBM *(2025)*
-  
+- 🎓 <a href="https://www.datacamp.com/certificate/AIEDA0018578690392" target="_blank">AI Engineer for Developers Associate</a> — DataCamp *(2026)*
+
+- 🎓 <a href="https://www.credly.com/badges/19e21884-aa1e-4e77-973c-992b5fe06a5d/public_url" target="_blank">Google Project Management Professional Certificate</a> — Google / Coursera *(2026)*
+
+- 🎓 <a href="https://www.credly.com/badges/c2fd37f5-8af1-4664-81b8-a3fe205ef9e8/public_url" target="_blank">AI & ML Engineering</a> — Microsoft *(2026)*
+
+- 🎓 <a href="https://www.credly.com/badges/c197e84c-44d0-412b-8721-6b8a3529410e/public_url" target="_blank">IBM RAG and Agentic AI Engineer</a> — IBM *(2025)*
 ## 🌟 GitHub Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF)](https://git.io/streak-stats)
