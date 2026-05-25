@@ -53,7 +53,8 @@ My work currently centers on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f1f5f9)
 
 ## Certifications
-
+<a href="URL" target="_blank" rel="noopener noreferrer">
+  
 - 🎓 <a href="https://www.datacamp.com/certificate/AIEDA0018578690392" target="_blank">AI Engineer for Developers Associate</a> — DataCamp *(2026)*
 
 - 🎓 <a href="https://www.credly.com/badges/19e21884-aa1e-4e77-973c-992b5fe06a5d/public_url" target="_blank">Google Project Management Professional Certificate</a> — Google / Coursera *(2026)*
