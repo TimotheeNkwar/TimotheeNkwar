@@ -8,13 +8,14 @@
 <p align="center">
   <strong>AI Engineer | Data Scientist</strong>
 </p>
-
+s
 <p align="center">
-  Nicosia, Northen Cyprus •
-  <a href="https://timotheenkwar.me">Website</a> •
-  <a href="https://www.linkedin.com/in/timothee-nkwar">LinkedIn</a> •
-  <a href="mailto:timotheenkwar@gmail.com">Email</a>
+  <a href="https://timotheenkwar.me"><img src="https://img.shields.io/badge/Website-timotheenkwar.me-0f172a?style=flat-square&logo=globe&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/timothee-nkwar"><img src="https://img.shields.io/badge/LinkedIn-Timothee_Nkwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:timotheenkwar@gmail.com"><img src="https://img.shields.io/badge/Email-timotheenkwar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Nicosia,_Northern_Cyprus-64748b?style=flat-square" />
 </p>
+
 
 AI Engineer and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
 
