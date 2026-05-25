@@ -4,6 +4,7 @@
   <img src="./Nkwar.png" alt="Timothee Nkwar banner" />
 </p>
 
+
 <p align="center">
   <strong>AI Engineer | Data Scientist</strong>
 </p>
