@@ -57,7 +57,7 @@ My work currently centers on:
 - 🎓 [AI Engineer for Developers Associate]([https://www.datacamp.com](https://www.datacamp.com/certificate/AIEDA0018578690392)) — DataCamp *(2026)*
 - 🎓 [Google Project Management Professional Certificate]([https://www.coursera.org](https://www.credly.com/badges/19e21884-aa1e-4e77-973c-992b5fe06a5d/public_url)) — Google / Coursera *(2026)*
 - 🎓 [AI & ML Engineering](https://www.credly.com/badges/c2fd37f5-8af1-4664-81b8-a3fe205ef9e8/public_url) — Microsoft *(2026)*
-- 🎓 [IBM RAG and Agentic AI Engineer]([https://www.deeplearning.ai](https://www.credly.com/badges/c197e84c-44d0-412b-8721-6b8a3529410e/public_url)) — IBM *(2025)*
+- 🎓 [IBM RAG and Agentic AI Engineer](https://www.deeplearning.ai](https://www.credly.com/badges/c197e84c-44d0-412b-8721-6b8a3529410e/public_url)) — IBM *(2025)*
   
 ## 🌟 GitHub Contributions
 
