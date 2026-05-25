@@ -52,13 +52,13 @@ My work currently centers on:
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=f1f5f9)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f1f5f9)
 
-## Learning & Certification
+## Certifications
 
-- DataCamp: AI Engineer for Developers Associate
-- Google Project Management Professional Certificate
-- AI & ML Engineering (Microsoft)
-- Mathematics for Machine Learning and Data Science (DeepLearning.AI)
-
+- 🎓 [AI Engineer for Developers Associate](https://www.datacamp.com) — DataCamp *(2024)*
+- 🎓 [Google Project Management Professional Certificate](https://www.coursera.org) — Google / Coursera *(2024)*
+- 🎓 [AI & ML Engineering](https://learn.microsoft.com) — Microsoft *(2024)*
+- 🎓 [Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai) — DeepLearning.AI *(2024)*
+  
 ## 🌟 GitHub Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF)](https://git.io/streak-stats)
