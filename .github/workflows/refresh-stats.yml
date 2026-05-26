@@ -1,0 +1,66 @@
+name: Refresh GitHub Stats
+
+on:
+  schedule:
+    # Exécuter tous les jours à 00:00 UTC
+    - cron: '0 0 * * *'
+  # Permet aussi de déclencher manuellement depuis l'onglet Actions
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Refresh stats URLs
+        run: |
+          import re
+          from datetime import datetime
+          
+          # Lire le README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # Générer un timestamp pour forcer le cache à se régénérer
+          timestamp = str(int(datetime.now().timestamp()))
+          
+          # Remplacer les paramètres v existants par un nouveau timestamp
+          # Cela force Vercel à régénérer les images
+          updated_content = re.sub(
+              r'&v=\d+',
+              f'&v={timestamp}',
+              content
+          )
+          
+          # Écrire le README mis à jour
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated_content)
+          
+          print(f"Stats URLs updated with timestamp: {timestamp}")
+        shell: python
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          # Vérifier s'il y a des changements
+          if git diff --quiet; then
+            echo "No changes detected"
+          else
+            git add README.md
+            git commit -m "chore: refresh GitHub stats [skip ci]"
+            git push
+            echo "Stats refreshed and pushed successfully!"
+          fi
