@@ -1,68 +1,39 @@
 name: Refresh GitHub Stats
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/refresh-stats.yml'
-  # Permet aussi de déclencher manuellement depuis l'onglet Actions
+  schedule:
+    # Run every day at 00:00 UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
-  refresh:
+  refresh-stats:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
       
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      
-      - name: Refresh stats URLs
+      - name: Update cache-busting parameters
         run: |
-          import re
-          from datetime import datetime
+          CURRENT_DATE=$(date +%s)
+          sed -i "s/v=[0-9]*/v=${CURRENT_DATE}/g" README.md
+          sed -i "s/&v=[0-9]*//g" README.md
+          sed -i "s/?v=[0-9]*//g" README.md
           
-          # Lire le README
-          with open('README.md', 'r', encoding='utf-8') as f:
-              content = f.read()
+          # Add v parameter to Vercel services (if not present)
+          sed -i 's/vercel.app"/vercel.app?v='${CURRENT_DATE}'"/g' README.md
           
-          # Générer un timestamp pour forcer le cache à se régénérer
-          timestamp = str(int(datetime.now().timestamp()))
-          
-          # Remplacer les paramètres v existants par un nouveau timestamp
-          # Cela force Vercel à régénérer les images
-          updated_content = re.sub(
-              r'&v=\d+',
-              f'&v={timestamp}',
-              content
-          )
-          
-          # Écrire le README mis à jour
-          with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(updated_content)
-          
-          print(f"Stats URLs updated with timestamp: {timestamp}")
-        shell: python
-      
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: refresh GitHub stats cache - $(date +%Y-%m-%d)"
           
-          # Vérifier s'il y a des changements
-          if git diff --quiet; then
-            echo "No changes detected"
-          else
-            git add README.md
-            git commit -m "chore: refresh GitHub stats [skip ci]"
-            git push
-            echo "Stats refreshed and pushed successfully!"
-          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
