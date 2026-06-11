@@ -51,23 +51,9 @@ My work currently centers on:
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=f1f5f9)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f1f5f9)
 
-<<<<<<< HEAD
-[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF&t=1779979200)](https://git.io/streak-stats)
-=======
-## Certifications
-<a href="URL" target=1781158247"_blank" rel="noopener noreferrer">
-  
-- 🎓 <a href="https://www.datacamp.com/certificate/AIEDA0018578690392" target=1781158247"_blank">AI Engineer for Developers Associate</a> — DataCamp *(2026)*
 
-- 🎓 <a href="https://www.credly.com/badges/19e21884-aa1e-4e77-973c-992b5fe06a5d/public_url" target=1781158247"_blank">Google Project Management Professional Certificate</a> — Google / Coursera *(2026)*
-
-- 🎓 <a href="https://www.credly.com/badges/c2fd37f5-8af1-4664-81b8-a3fe205ef9e8/public_url" target=1781158247"_blank">AI & ML Engineering</a> — Microsoft / Coursera *(2026)*
-
-- 🎓 <a href="https://www.credly.com/badges/c197e84c-44d0-412b-8721-6b8a3529410e/public_url" target=1781158247"_blank">IBM RAG and Agentic AI Engineer</a> — IBM / Coursera *(2025)*
-## 🌟 GitHub Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF&t=1781158247)](https://git.io/streak-stats)
->>>>>>> 5e9689d8b6c311077ee83a7e05584e7e7334d366
 
 ## 📊 GitHub Analytics
 
