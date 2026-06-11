@@ -18,12 +18,8 @@ jobs:
       - name: Update cache-busting parameters
         run: |
           CURRENT_DATE=$(date +%s)
-          sed -i "s/v=[0-9]*/v=${CURRENT_DATE}/g" README.md
-          sed -i "s/&v=[0-9]*//g" README.md
-          sed -i "s/?v=[0-9]*//g" README.md
-          
-          # Add v parameter to Vercel services (if not present)
-          sed -i 's/vercel.app"/vercel.app?v='${CURRENT_DATE}'"/g' README.md
+          # Replace existing t=[0-9]* cache buster with the current timestamp
+          sed -i "s/t=[0-9]*/t=${CURRENT_DATE}/g" README.md
           
       - name: Commit changes
         run: |
