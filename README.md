@@ -44,6 +44,7 @@ Developing **Mvutano**, working across:
 - Data security and privacy
 - Compliance
 - Infrastructure
+- Scalability and system design
 
 ## Tech Stack
 
