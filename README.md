@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <strong>AI Engineer | AI Software Engineer | ML Engineer | Data Scientist</strong>
+  <strong> Engineer </strong>
 </p>
 <p align="center">
   <a href="https://timotheenkwar.me"><img src="https://img.shields.io/badge/Website-timotheenkwar.me-0f172a?style=flat-square&logo=globe&logoColor=white" /></a>
