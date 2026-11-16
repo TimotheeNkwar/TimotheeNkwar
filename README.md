@@ -16,7 +16,7 @@
 </p>
 
 
-AI Engineer, AI Software Engineer, and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
+AI|ML Engineer, AI Software Engineer, and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
 
 My work currently centers on:
 
